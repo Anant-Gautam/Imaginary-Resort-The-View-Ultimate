@@ -1,0 +1,376 @@
+body {
+  background-color: whitesmoke;
+}
+
+::selection {
+  color: #2bcdba;
+}
+
+.second-carousol-image {
+  height: 600px;
+  width: 100%;
+}
+
+.first-carousol-image {
+  height: 600px;
+  width: 100%;
+}
+
+.third-carousol-image {
+  height: 600px;
+  width: 100%;
+}
+
+.fourth-carousol-image {
+  height: 600px;
+  width: 100%;
+}
+
+.first-carousel-header {
+  position: absolute;
+  top: 250px;
+  color: whitesmoke;
+  font-size: 35px;
+  left: 150px;
+}
+
+.first-carousel-subheader {
+  position: absolute;
+  top: 320px;
+  color: whitesmoke;
+  font-size: 20px;
+  left: 150px;
+}
+
+
+.second-carousel-header {
+  position: absolute;
+  top: 250px;
+  color: whitesmoke;
+  font-size: 35px;
+  left: 150px;
+}
+
+.second-carousel-subheader {
+  position: absolute;
+  top: 320px;
+  color: whitesmoke;
+  font-size: 20px;
+  left: 150px;
+}
+
+.third-carousol-header {
+  position: absolute;
+  top: 250px;
+  color: whitesmoke;
+  font-size: 35px;
+  left: 150px;
+}
+
+.third-carousol-subheader {
+  position: absolute;
+  top: 320px;
+  color: whitesmoke;
+  font-size: 20px;
+  left: 150px;
+}
+
+.fourth-carousol-header {
+  position: absolute;
+  top: 250px;
+  color: whitesmoke;
+  font-size: 35px;
+  left: 150px;
+}
+
+.fourth-carousol-subheader {
+  position: absolute;
+  top: 310px;
+  color: whitesmoke;
+  font-size: 20px;
+  left: 150px;
+}
+
+.About-section-header {
+  font-size: 30px;
+  position: absolute;
+  top: 650px;
+  left: 590px;
+}
+
+.about-card {
+  position: absolute;
+  top: 680px;
+  left: 300px;
+  border: none;
+}
+
+.card-first {
+  height: 400px;
+  width: 1250px;
+  position: absolute;
+  top: -50px;
+  left: -290px;
+  border-radius: 10px;
+}
+
+.text-card {
+  width: 1250px;
+  position: absolute;
+  top: -50px;
+  background-color: rgb(44, 44, 44);
+  color: whitesmoke;
+  border-radius: 10px;
+  padding: 20px;
+  left: -290px;
+  height: 400px;
+  opacity: 0.8;
+}
+
+.first-carousel-header {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  opacity: 0.6;
+}
+
+.first-carousel-subheader {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  padding: 20px;
+  position: absolute;
+  top: 298px;
+  opacity: 0.6;
+  width: 600px;
+}
+
+.second-carousel-header {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  opacity: 0.6;
+}
+
+.second-carousel-subheader {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  padding: 20px;
+  position: absolute;
+  top: 298px;
+  opacity: 0.6;
+  width: 460px;
+}
+
+.third-carousol-header {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  opacity: 0.6;
+}
+
+.third-carousol-subheader {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  padding: 20px;
+  position: absolute;
+  top: 298px;
+  opacity: 0.6;
+  width: 450px;
+}
+
+.fourth-carousol-header {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  opacity: 0.6;
+}
+
+.fourth-carousol-subheader {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 10px;
+  padding: 20px;
+  position: absolute;
+  top: 298px;
+  opacity: 0.6;
+  width: 790px;
+}
+
+.upper-dots {
+  position: absolute;
+}
+
+.card-heading {
+  position: absolute;
+  left: 150px;
+}
+
+.card-heading {
+  margin-top: 150px;
+  margin-left: 100px;
+}
+
+.card-subheading {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.line-div {
+  margin-top: 210px;
+  margin-left: 120px;
+  width: 1000px;
+  background-color: whitesmoke;
+  height: 1.5px;
+}
+
+.upper-dots {
+  margin-left: 600px;
+  margin-top: 70px;
+}
+
+.lower-dots {
+  margin-left: 600px;
+  margin-top: 47px;
+}
+
+.header-amenities {
+  position: absolute;
+  top: 1100px;
+  left: 0px;
+  font-size: 32px;
+  background-color: #27a99a;
+  color: whitesmoke;
+  width: 1270px;
+  display: flex;
+  justify-content: center;
+}
+
+.vertical-line {
+  background-color: rgb(40, 39, 39);
+  width: 1.5px;
+  height: 150px;
+  position: absolute;
+  left: 645px;
+  top: 1300px;
+}
+
+.Standard-amenities {
+  height: 20px;
+}
+
+.Standard-amenities-p {
+  color: rgb(40, 39, 39);
+  font-size: 25px;
+  position: absolute;
+  top: 1230px;
+  left: 200px;
+}
+
+.Exotic-amenities-p {
+  color: rgb(40, 39, 39);
+  font-size: 25px;
+  position: absolute;
+  top: 1230px;
+  left: 850px;
+}
+
+.Standard-amenities-p-content {
+  color: rgb(40, 39, 39);
+  font-size: 17px;
+  position: absolute;
+  top: 1350px;
+  left: 60px;
+}
+
+.Exotic-amenities-p-content {
+  color: rgb(40, 39, 39);
+  font-size: 17px;
+  position: absolute;
+  top: 1350px;
+  left: 720px;
+}
+
+.card {
+  margin-top: 100px;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+.header-amenities-second {
+  position: absolute;
+  top: 1500px;
+  left: 0px;
+  font-size: 32px;
+  background-color: #27a99a;
+  color: whitesmoke;
+  width: 1270px;
+  display: flex;
+  justify-content: center;
+}
+
+.Note-one {
+  margin-top: 880px;
+  font-size: 9px;
+  margin-left: 100px;
+  margin-right: 50px;
+}
+
+.second-one {
+  font-size: 12px;
+  margin-left: 510px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+.btn {
+  background-color: rgb(36, 36, 36);
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  margin-top: 45px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: rgb(15, 18, 27);
+}
+
+.social-media-links {
+  width: 80px;
+  background-color: rgb(24, 24, 24);
+  height: 750px;
+  padding-top: 10px;
+  margin-top: 80px;
+}
+
+.contacts {
+  margin-left: 100px;
+  margin-top: -700px;
+}
+
+.copyright {
+  margin-left: 550px;
+  margin-top: 30px;
+}
+
+.header-amenities-third {
+  position: absolute;
+  top: 2300px;
+  left: 0px;
+  font-size: 32px;
+  background-color: #27a99a;
+  color: whitesmoke;
+  width: 1270px;
+  display: flex;
+  justify-content: center;
+}
