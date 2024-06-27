@@ -348,9 +348,10 @@ body {
 .social-media-links {
   width: 80px;
   background-color: rgb(24, 24, 24);
-  height: 750px;
+  height: 740px;
   padding-top: 10px;
-  margin-top: 80px;
+  margin-top: -25px;
+  margin-bottom: 20px;
 }
 
 .contacts {
